@@ -6,7 +6,7 @@ Date: 22nd September 2023
 B&H Photo Video is an American retailer specializing in photography and videography that operates primarily through online e-commerce.
 In a biannual meeting, the Chief Financial Officer (CFO) has set forth an objective to enhance B&H’s sponsorship and fellowship programs at BRIC, Brooklyn's largest presenter of free cultural events. To attain this goal, the company intends to forecast the revenue for a campaign that involves offering a 10% discount on its mirrorless cameras. 
 To address this objective, the CFO has posed two questions:
-  1.	Which mirrorless camera should the discount be applied to to optimize revenue?
+  1.	Which mirrorless camera should the discount be applied to optimize revenue?
   2.	What are the anticipated revenue figures?
 ## Solution
 For this problem, I will calculate the price elasticity of the products in the mirrorless camera category at B&H Photo Video. The solution's planning involved applying the SAPE method developed by the Comunidade DS. This method encompasses the definition of an output (SA: saida), the process (P) and the input (E: entrada). Moreover, the project will be executed in accordance with the Cross-Industry Standard Process for Data Science (CRISP-DS) methodology. This methodology is characterized by a cyclical approach across the various analysis phases, designed to continually enhance the value to the business. Upon delivering the initial set of solutions, the process can be iterated to discover new insights, fine-tune parameters, improve accuracy, and increase the value delivered to the business.
